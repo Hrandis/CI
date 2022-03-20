@@ -62,7 +62,7 @@
                                 <rule>
                                     <limits>
                                         <limit>
-                                            <counter>Branches</counter>
+                                            <counter>BRANCHES</counter>
                                             <value>COVEREDRATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
